@@ -1,2 +1,2 @@
 # Vedant_Resume
-Contains Resume in PDF format
+** Contains Resume in PDF format**
